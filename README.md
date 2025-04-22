@@ -78,7 +78,6 @@ java -version
 
 ### 📲 Step 2: Install Android Studio
 
-Follow setup instructions as guided in lesson video #15.
 
 ---
 
